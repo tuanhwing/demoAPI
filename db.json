@@ -130,6 +130,69 @@
                 "icon": "icon-male"
             },
             "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/6.jpg",
+                "status": "warning"
+            },
+            "user": {
+                "userID": "6",
+                "name": "Quintin LOLL",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "India",
+                "flag": "in"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/4.jpg",
+                "status": "warning"
+            },
+            "user": {
+                "userID": "7",
+                "name": "sdddđs Ed",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "India",
+                "flag": "in"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/4.jpg",
+                "status": "warning"
+            },
+            "user": {
+                "userID": "8",
+                "name": "sdddđs Ed",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "India",
+                "flag": "in"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
         }
     ]
 }
