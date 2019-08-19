@@ -5,6 +5,50 @@
             "title": "hello"
         }
     ],
+    "users": [
+        {
+            "avatar": {
+                "url": "img/avatars/1.jpg",
+                "status": "success"
+            },
+            "user": {
+                "userID": "1",
+                "name": "Yiorgos Avraamu",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "Vietnam",
+                "flag": "vn"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/2.jpg",
+                "status": "danger"
+            },
+            "user": {
+                "userID": "2",
+                "name": "Avram Tarasios",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "England",
+                "flag": "gb-eng"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
