@@ -1,4 +1,30 @@
 {
+    "teams": [
+        {
+            "teamId": "1",
+            "name": "Team 1",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZKspiTFO-yVZjXNzie92Kl37GxWeSFUdNcrg3evREchjUQlN",
+            "request_count": 60
+        },
+        {
+            "teamId": "2",
+            "name": "Team 2",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZKspiTFO-yVZjXNzie92Kl37GxWeSFUdNcrg3evREchjUQlN",
+            "request_count": 13
+        },
+        {
+            "teamId": "3",
+            "name": "Team 4",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZKspiTFO-yVZjXNzie92Kl37GxWeSFUdNcrg3evREchjUQlN",
+            "request_count": 5
+        },
+        {
+            "teamId": "4",
+            "name": "Team 4",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZKspiTFO-yVZjXNzie92Kl37GxWeSFUdNcrg3evREchjUQlN",
+            "request_count": 65
+        }
+    ],
     "users": [
         {
             "avatar": {
