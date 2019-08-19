@@ -25,6 +25,80 @@
             "request_count": 65
         }
     ],
+    "requests": [
+        {
+            "user_id": "1",
+            "team_id": "1",
+            "email": "email@gmail.com",
+            "name": "Avram Tarasios",
+            "position": "leader",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIcy2GVYW7xQQqSOWP0EsAH9Q1VAcBuMNMCGwyx0xbOcC5mi0pA"
+        },
+        {
+            "user_id": "2",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "5",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "3",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "5",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "3",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "5",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        },
+        {
+            "user_id": "3",
+            "team_id": "1",
+            "email": "email2@gmail.com",
+            "name": "Avatr Jub",
+            "position": "member",
+            "phone": "0123456789",
+            "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvF7PbNUzsyRnuLgHOVf82gNm7SZXbKUyPJMYpU_ziweeGulCPQ"
+        }
+    ],
     "users": [
         {
             "avatar": {
