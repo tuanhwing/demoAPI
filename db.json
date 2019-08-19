@@ -1,10 +1,4 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
     "users": [
         {
             "avatar": {
@@ -47,9 +41,27 @@
                 "icon": "icon-male"
             },
             "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/3.jpg",
+                "status": "warning"
+            },
+            "user": {
+                "userID": "3",
+                "name": "Quintin Ed",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "India",
+                "flag": "in"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
