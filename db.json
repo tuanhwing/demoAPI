@@ -88,6 +88,48 @@
                 "icon": "icon-male"
             },
             "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/1.jpg",
+                "status": "success"
+            },
+            "user": {
+                "userID": "4",
+                "name": "Yiorgos Avraamu",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "Vietnam",
+                "flag": "vn"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
+        },
+        {
+            "avatar": {
+                "url": "img/avatars/2.jpg",
+                "status": "success"
+            },
+            "user": {
+                "userID": "5",
+                "name": "Yiorgos Asdd",
+                "new": true,
+                "register": "Jan 1, 2015"
+            },
+            "language": {
+                "name": "Vietnam",
+                "flag": "vn"
+            },
+            "gender": {
+                "name": "male",
+                "icon": "icon-male"
+            },
+            "token": "Device Token"
         }
     ]
 }
